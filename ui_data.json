@@ -12,7 +12,7 @@
         "data": "Click Me"
       }
     },
-    {"type": "text", "data": "Welcome to Server Driven UI Screen"},
+    {"type": "text", "data": "Welcome to Server Driven UI"},
     {"type": "sizedBox", "height": 20},
     {
       "type": "textField",

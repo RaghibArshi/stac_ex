@@ -11,6 +11,17 @@
         "type": "text",
         "data": "Click Me"
       }
-    }
+    },
+    {"type": "text", "data": "Welcome to Server Driven UI Screen"},
+    {"type": "sizedBox", "height": 20},
+    {
+      "type": "textField",
+      "decoration": {"hintText": "Enter Name"},
+    },
+    {"type": "sizedBox", "height": 20},
+    {
+      "type": "elevatedButton",
+      "child": {"type": "text", "data": "Submit"},
+    },
   ]
 }

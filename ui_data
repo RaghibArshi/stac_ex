@@ -1,0 +1,16 @@
+{
+  "type": "column",
+  "children": [
+    {
+      "type": "text",
+      "data": "Hello from Server"
+    },
+    {
+      "type": "elevatedButton",
+      "child": {
+        "type": "text",
+        "data": "Click Me"
+      }
+    }
+  ]
+}
